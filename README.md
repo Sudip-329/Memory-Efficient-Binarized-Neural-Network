@@ -7,7 +7,6 @@
 </p>
 
 ---
-
 ## 📖 Abstract
 Deep learning models have revolutionized various fields, but their high computational requirements and large parameter sizes present difficulties for real-time usage and environments with limited resources. In this study, the impact of **binarization** is explored as an effective optimization technique to reduce model complexity while maintaining competitive performance. A deep learning model is trained on two datasets, followed by the application of binarization to create a lightweight version with significantly fewer parameters and lower computational overhead. The results demonstrate that binarization accelerates inference speed, reduces storage demands, and enhances overall efficiency, making deep learning models more suitable for edge computing and low-power devices. Additionally, this work analyzes the trade-offs associated with binarization, such as its effect on accuracy and generalization. The findings highlight the potential of binarization in optimizing deep learning models without requiring specialized hardware, offering a promising direction for efficient AI deployment in real-world scenarios.
 
